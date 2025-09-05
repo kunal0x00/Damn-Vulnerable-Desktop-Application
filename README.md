@@ -16,8 +16,7 @@ DVDA is an intentionally vulnerable thick client project designed to help studen
 
 
 ```markdown
-![Hardcoded Credential Screenshot](images/creds.png)
-![DLL Hijacking Screenshot](images/dll_hijack.png)
+
 ```
 
 Replace the example filenames with your actual image locations. This helps others understand your demo visually.[^2][^3][^1]
