@@ -1,7 +1,9 @@
 # DVDA - Damn Vulnerable Desktop App
 
 DVDA is an intentionally vulnerable thick client project designed to help students learn and practice security testing techniques for desktop applications. It follows the **OWASP Top 10 Desktop/Thick Client Security Risks** for modern Windows apps.[^4][^5][^6]
-<img width="476" height="640" alt="image" src="https://github.com/user-attachments/assets/5ea14d35-9948-4876-9881-01b92244f3f7" />
+ 
+ 
+ <img width="476" height="640" alt="image" src="https://github.com/user-attachments/assets/5ea14d35-9948-4876-9881-01b92244f3f7" />
 
 ## Features
 
