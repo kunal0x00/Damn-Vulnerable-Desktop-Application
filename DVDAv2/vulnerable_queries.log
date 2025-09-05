@@ -1,0 +1,2 @@
+[03-08-2025 21:45:19] VULNERABLE_SQL | Context: User Authentication | Query: SELECT * FROM users WHERE username = '1' OR '1'='1' --' AND password = '' OR '1'='1' | User: kunal | Machine: KUNAL
+[03-08-2025 21:46:06] VULNERABLE_SQL | Context: User Authentication | Query: SELECT * FROM users WHERE username = 'admin' OR '1'='1'--' AND password = '' OR '1'='1' | User: kunal | Machine: KUNAL

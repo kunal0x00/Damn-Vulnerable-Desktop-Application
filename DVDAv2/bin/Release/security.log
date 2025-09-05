@@ -1,0 +1,1 @@
+[2025-08-10 01:25:13] SQL Injection attempt: Username='UNION SELECT Username, Password, Email, 'x', 'x', 'x', 'x', 'x' FROM Users --' Password='UNION SELECT Username, Password, Email, 'x', 'x', 'x', 'x', 'x' FROM Users --'

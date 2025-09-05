@@ -1,0 +1,1 @@
+[2025-08-10 02:11:26] SQL Injection attempt: Username='admin' OR '1'='1' --' Password='admin' OR '1'='1' --'
